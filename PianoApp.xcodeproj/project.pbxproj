@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6557EB2B1D6E32BB00CA77AF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6557EB2A1D6E32BB00CA77AF /* AppDelegate.swift */; };
+		6557EB2D1D6E32BB00CA77AF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6557EB2C1D6E32BB00CA77AF /* ViewController.swift */; };
+		6557EB301D6E32BB00CA77AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6557EB2E1D6E32BB00CA77AF /* Main.storyboard */; };
+		6557EB321D6E32BB00CA77AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6557EB311D6E32BB00CA77AF /* Assets.xcassets */; };
+		6557EB351D6E32BB00CA77AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6557EB331D6E32BB00CA77AF /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6557EB271D6E32BB00CA77AF /* PianoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PianoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6557EB2A1D6E32BB00CA77AF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6557EB2C1D6E32BB00CA77AF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6557EB2F1D6E32BB00CA77AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6557EB311D6E32BB00CA77AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6557EB341D6E32BB00CA77AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6557EB361D6E32BB00CA77AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6557EB241D6E32BB00CA77AF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6557EB1E1D6E32BB00CA77AF = {
+			isa = PBXGroup;
+			children = (
+				6557EB291D6E32BB00CA77AF /* PianoApp */,
+				6557EB281D6E32BB00CA77AF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6557EB281D6E32BB00CA77AF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6557EB271D6E32BB00CA77AF /* PianoApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6557EB291D6E32BB00CA77AF /* PianoApp */ = {
+			isa = PBXGroup;
+			children = (
+				6557EB2A1D6E32BB00CA77AF /* AppDelegate.swift */,
+				6557EB2C1D6E32BB00CA77AF /* ViewController.swift */,
+				6557EB2E1D6E32BB00CA77AF /* Main.storyboard */,
+				6557EB311D6E32BB00CA77AF /* Assets.xcassets */,
+				6557EB331D6E32BB00CA77AF /* LaunchScreen.storyboard */,
+				6557EB361D6E32BB00CA77AF /* Info.plist */,
+			);
+			path = PianoApp;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6557EB261D6E32BB00CA77AF /* PianoApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6557EB391D6E32BB00CA77AF /* Build configuration list for PBXNativeTarget "PianoApp" */;
+			buildPhases = (
+				6557EB231D6E32BB00CA77AF /* Sources */,
+				6557EB241D6E32BB00CA77AF /* Frameworks */,
+				6557EB251D6E32BB00CA77AF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PianoApp;
+			productName = PianoApp;
+			productReference = 6557EB271D6E32BB00CA77AF /* PianoApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6557EB1F1D6E32BB00CA77AF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Chester Lam";
+				TargetAttributes = {
+					6557EB261D6E32BB00CA77AF = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 6557EB221D6E32BB00CA77AF /* Build configuration list for PBXProject "PianoApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6557EB1E1D6E32BB00CA77AF;
+			productRefGroup = 6557EB281D6E32BB00CA77AF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6557EB261D6E32BB00CA77AF /* PianoApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6557EB251D6E32BB00CA77AF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6557EB351D6E32BB00CA77AF /* LaunchScreen.storyboard in Resources */,
+				6557EB321D6E32BB00CA77AF /* Assets.xcassets in Resources */,
+				6557EB301D6E32BB00CA77AF /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6557EB231D6E32BB00CA77AF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6557EB2D1D6E32BB00CA77AF /* ViewController.swift in Sources */,
+				6557EB2B1D6E32BB00CA77AF /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6557EB2E1D6E32BB00CA77AF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6557EB2F1D6E32BB00CA77AF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		6557EB331D6E32BB00CA77AF /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6557EB341D6E32BB00CA77AF /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6557EB371D6E32BB00CA77AF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6557EB381D6E32BB00CA77AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6557EB3A1D6E32BB00CA77AF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = PianoApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cklam.PianoApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		6557EB3B1D6E32BB00CA77AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = PianoApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cklam.PianoApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6557EB221D6E32BB00CA77AF /* Build configuration list for PBXProject "PianoApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6557EB371D6E32BB00CA77AF /* Debug */,
+				6557EB381D6E32BB00CA77AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6557EB391D6E32BB00CA77AF /* Build configuration list for PBXNativeTarget "PianoApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6557EB3A1D6E32BB00CA77AF /* Debug */,
+				6557EB3B1D6E32BB00CA77AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6557EB1F1D6E32BB00CA77AF /* Project object */;
+}
