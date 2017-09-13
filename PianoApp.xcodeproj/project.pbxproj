@@ -12,6 +12,22 @@
 		6557EB301D6E32BB00CA77AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6557EB2E1D6E32BB00CA77AF /* Main.storyboard */; };
 		6557EB321D6E32BB00CA77AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6557EB311D6E32BB00CA77AF /* Assets.xcassets */; };
 		6557EB351D6E32BB00CA77AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6557EB331D6E32BB00CA77AF /* LaunchScreen.storyboard */; };
+		659308731D6E347D00D0FA54 /* black.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 659308711D6E347D00D0FA54 /* black.jpg */; };
+		659308741D6E347D00D0FA54 /* white.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 659308721D6E347D00D0FA54 /* white.jpg */; };
+		659308831D6E348900D0FA54 /* A#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 659308761D6E348900D0FA54 /* A#.mp3 */; };
+		659308841D6E348900D0FA54 /* A.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 659308771D6E348900D0FA54 /* A.mp3 */; };
+		659308851D6E348900D0FA54 /* B.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 659308781D6E348900D0FA54 /* B.mp3 */; };
+		659308861D6E348900D0FA54 /* C#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 659308791D6E348900D0FA54 /* C#.mp3 */; };
+		659308871D6E348900D0FA54 /* C3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6593087A1D6E348900D0FA54 /* C3.mp3 */; };
+		659308881D6E348900D0FA54 /* C4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6593087B1D6E348900D0FA54 /* C4.mp3 */; };
+		659308891D6E348900D0FA54 /* D#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6593087C1D6E348900D0FA54 /* D#.mp3 */; };
+		6593088A1D6E348900D0FA54 /* D.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6593087D1D6E348900D0FA54 /* D.mp3 */; };
+		6593088B1D6E348900D0FA54 /* E.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6593087E1D6E348900D0FA54 /* E.mp3 */; };
+		6593088C1D6E348900D0FA54 /* F#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6593087F1D6E348900D0FA54 /* F#.mp3 */; };
+		6593088D1D6E348900D0FA54 /* F.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 659308801D6E348900D0FA54 /* F.mp3 */; };
+		6593088E1D6E348900D0FA54 /* G#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 659308811D6E348900D0FA54 /* G#.mp3 */; };
+		6593088F1D6E348900D0FA54 /* G.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 659308821D6E348900D0FA54 /* G.mp3 */; };
+		659308951D6E4D8F00D0FA54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 659308931D6E4D8F00D0FA54 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +38,22 @@
 		6557EB311D6E32BB00CA77AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6557EB341D6E32BB00CA77AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6557EB361D6E32BB00CA77AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		659308711D6E347D00D0FA54 /* black.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = black.jpg; sourceTree = "<group>"; };
+		659308721D6E347D00D0FA54 /* white.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = white.jpg; sourceTree = "<group>"; };
+		659308761D6E348900D0FA54 /* A#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A#.mp3"; sourceTree = "<group>"; };
+		659308771D6E348900D0FA54 /* A.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = A.mp3; sourceTree = "<group>"; };
+		659308781D6E348900D0FA54 /* B.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = B.mp3; sourceTree = "<group>"; };
+		659308791D6E348900D0FA54 /* C#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "C#.mp3"; sourceTree = "<group>"; };
+		6593087A1D6E348900D0FA54 /* C3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = C3.mp3; sourceTree = "<group>"; };
+		6593087B1D6E348900D0FA54 /* C4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = C4.mp3; sourceTree = "<group>"; };
+		6593087C1D6E348900D0FA54 /* D#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "D#.mp3"; sourceTree = "<group>"; };
+		6593087D1D6E348900D0FA54 /* D.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = D.mp3; sourceTree = "<group>"; };
+		6593087E1D6E348900D0FA54 /* E.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = E.mp3; sourceTree = "<group>"; };
+		6593087F1D6E348900D0FA54 /* F#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "F#.mp3"; sourceTree = "<group>"; };
+		659308801D6E348900D0FA54 /* F.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = F.mp3; sourceTree = "<group>"; };
+		659308811D6E348900D0FA54 /* G#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "G#.mp3"; sourceTree = "<group>"; };
+		659308821D6E348900D0FA54 /* G.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = G.mp3; sourceTree = "<group>"; };
+		659308941D6E4D8F00D0FA54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = PianoApp/Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +72,7 @@
 			children = (
 				6557EB291D6E32BB00CA77AF /* PianoApp */,
 				6557EB281D6E32BB00CA77AF /* Products */,
+				659308931D6E4D8F00D0FA54 /* Main.storyboard */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,10 +91,42 @@
 				6557EB2C1D6E32BB00CA77AF /* ViewController.swift */,
 				6557EB2E1D6E32BB00CA77AF /* Main.storyboard */,
 				6557EB311D6E32BB00CA77AF /* Assets.xcassets */,
+				659308701D6E347D00D0FA54 /* image */,
+				659308751D6E348900D0FA54 /* sound */,
 				6557EB331D6E32BB00CA77AF /* LaunchScreen.storyboard */,
 				6557EB361D6E32BB00CA77AF /* Info.plist */,
 			);
 			path = PianoApp;
+			sourceTree = "<group>";
+		};
+		659308701D6E347D00D0FA54 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				659308711D6E347D00D0FA54 /* black.jpg */,
+				659308721D6E347D00D0FA54 /* white.jpg */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		659308751D6E348900D0FA54 /* sound */ = {
+			isa = PBXGroup;
+			children = (
+				659308761D6E348900D0FA54 /* A#.mp3 */,
+				659308771D6E348900D0FA54 /* A.mp3 */,
+				659308781D6E348900D0FA54 /* B.mp3 */,
+				659308791D6E348900D0FA54 /* C#.mp3 */,
+				6593087A1D6E348900D0FA54 /* C3.mp3 */,
+				6593087B1D6E348900D0FA54 /* C4.mp3 */,
+				6593087C1D6E348900D0FA54 /* D#.mp3 */,
+				6593087D1D6E348900D0FA54 /* D.mp3 */,
+				6593087E1D6E348900D0FA54 /* E.mp3 */,
+				6593087F1D6E348900D0FA54 /* F#.mp3 */,
+				659308801D6E348900D0FA54 /* F.mp3 */,
+				659308811D6E348900D0FA54 /* G#.mp3 */,
+				659308821D6E348900D0FA54 /* G.mp3 */,
+			);
+			name = sound;
+			path = image/sound;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +161,7 @@
 				TargetAttributes = {
 					6557EB261D6E32BB00CA77AF = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = Y35CSFF2GW;
 					};
 				};
 			};
@@ -122,9 +188,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6593088C1D6E348900D0FA54 /* F#.mp3 in Resources */,
+				659308871D6E348900D0FA54 /* C3.mp3 in Resources */,
+				659308861D6E348900D0FA54 /* C#.mp3 in Resources */,
+				659308741D6E347D00D0FA54 /* white.jpg in Resources */,
+				659308841D6E348900D0FA54 /* A.mp3 in Resources */,
+				6593088E1D6E348900D0FA54 /* G#.mp3 in Resources */,
+				6593088F1D6E348900D0FA54 /* G.mp3 in Resources */,
+				6593088A1D6E348900D0FA54 /* D.mp3 in Resources */,
 				6557EB351D6E32BB00CA77AF /* LaunchScreen.storyboard in Resources */,
+				6593088B1D6E348900D0FA54 /* E.mp3 in Resources */,
+				659308731D6E347D00D0FA54 /* black.jpg in Resources */,
+				6593088D1D6E348900D0FA54 /* F.mp3 in Resources */,
 				6557EB321D6E32BB00CA77AF /* Assets.xcassets in Resources */,
+				659308891D6E348900D0FA54 /* D#.mp3 in Resources */,
+				659308851D6E348900D0FA54 /* B.mp3 in Resources */,
+				659308831D6E348900D0FA54 /* A#.mp3 in Resources */,
 				6557EB301D6E32BB00CA77AF /* Main.storyboard in Resources */,
+				659308951D6E4D8F00D0FA54 /* Main.storyboard in Resources */,
+				659308881D6E348900D0FA54 /* C4.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -157,6 +239,14 @@
 				6557EB341D6E32BB00CA77AF /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		659308931D6E4D8F00D0FA54 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				659308941D6E4D8F00D0FA54 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -249,10 +339,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = PianoApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cklam.PianoApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -260,10 +353,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = PianoApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cklam.PianoApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -286,6 +382,7 @@
 				6557EB3B1D6E32BB00CA77AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
